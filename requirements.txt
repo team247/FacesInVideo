@@ -1,0 +1,5 @@
+click
+moviepy
+Pillow
+numpy
+face_recognition
